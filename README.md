@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-and-Insight-Generation-Project
-Conducted structured EDA on real-world datasets to identify trends, correlations, and business opportunities, Developed clear and insightful visualizations using Python (Pandas, Matplotlib, and Seaborn).Performed comprehensive exploratory data analysis using Python to uncover patterns, correlations, and key insights from the dataset. Applied data cleaning, transformation, statistical analysis, and visualization techniques to understand variable relationships and business trends. Delivered actionable insights using Seaborn and Matplotlib visualizations
+Performed comprehensive exploratory data analysis using Python to uncover patterns, correlations, and key insights from the dataset. Applied data cleaning, transformation, statistical analysis, and visualization techniques to understand variable relationships and business trends. Delivered actionable insights using Seaborn and Matplotlib visualizations
 # Project Summary
 
 # Exploratory Data Analysis (EDA) Project
